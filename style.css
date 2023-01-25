@@ -218,7 +218,7 @@
 .btn-background-slide{
   border-radius: 5px;
   color: black;
-  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.7);
+  box-shadow: 0 5px 16px rgba(0, 0, 0, 0.5);
 }
 
 .btn-download.btn-background-slide::before {
